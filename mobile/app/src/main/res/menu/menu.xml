@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/showCategories"
+        android:title="Listar Categorias" />
+
+    <item
+        android:id="@+id/showProductsAndCategories"
+        android:title="Listar Produtos por categoria" />
+
+    <item
+        android:id="@+id/product"
+        android:title="Cadastrar Produto" />
+
+    <item
+        android:id="@+id/category"
+        android:title="Cadastrar Categoria" />
+
+    <item
+        android:id="@+id/logs"
+        android:title="Ver logs" />
+</menu>
